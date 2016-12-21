@@ -1,0 +1,22 @@
+li{
+  list-style: none;
+  color: white;
+  padding-top: 10px;
+  padding-right: 20px;
+}
+
+.navbar{
+  border: none;
+}
+
+#batman {
+  text-align: end; /* "0" pour qu'il ne soit pas déplacé verticalement, et "auto" pour qu'il soit centré (quelque soit la largeur du support) */
+}
+
+#twit {
+  float: right;
+  margin-top: 100px;
+}
+.fontaw {
+  float: right;
+}
